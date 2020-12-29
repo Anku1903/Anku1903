@@ -53,14 +53,11 @@ Here are some ideas to get you started:
 
 ## Links
 
-<p align="center">
-  <a href="ankurzalavadiya11@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://facebook.com/ankur.zalavadiya.3"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://twitter.com/AnkurZalavadiy3"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://instagram.com/mr__perfect__1903"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
- <a href="https://ankur1903.herokuapp.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="portfolio"> </a>
-   
-</p>
+[![GitHub](icons/github.png)](https://github.com/Anku1903)
+[![Twitter](icons/twitter.png)](https://twitter.com/AnkurZalavadiy3)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+
 
 
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
