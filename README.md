@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> . </p>
 Hi, I'm Ankur Zalavadiya!, a passionate self-taught Full Stack Web Developer 🚀 from India.
 <p>
-![Hi, I'm Ankur Zalavadiya 👋 I'm a 🚀 MERN stack web Developer 🚀 I ❤️ to build cool things ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+
 <!--
 **Anku1903/Anku1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
