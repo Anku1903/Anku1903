@@ -39,6 +39,12 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
+### 🌱 What do I do?
+
+- ✔️I'm a fast learner looking for interesting career opportunities in Android and Web as a full-stack developer. I am awaiting a job with a chance to build up my career and skills. I am looking for growth. Currently, I am looking for internships and Freelance projects in the field of Web Devlopment.
+
+- ✔️My activities are much beyond my stream of education. I am involved in self-learning to building my personal brand. Apart from this, I love the marketing and stocks field. 
+
 
 ## Links
 
