@@ -56,7 +56,9 @@ Here are some ideas to get you started:
 [![GitHub](icons/github.png)](https://github.com/Anku1903)
 [![Twitter](icons/twitter.png)](https://twitter.com/AnkurZalavadiy3)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg)](https://www.instagram.com/hussain.web/)
+
+[![Facebook](fb.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](insta.png)](https://www.instagram.com/hussain.web/)
 
 
 
