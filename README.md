@@ -26,3 +26,6 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/mr__perfect__1903"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
  <a href="https://ankur1903.herokuapp.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" style="height:100px;width:100px;" </a>
 </p>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
