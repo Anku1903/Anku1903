@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##### BIO
+
+- 🏢 Hello, Geeks! I'm **Full stack web Devloper**
+- ⚙️ I use daily: `.js`,`.html`, `.css`, 
+- 🌍 I'm mostly active in **Linkedin** and **Github**
+- 🌱 Exploring **Web**
+- 🌱 Currently Learning all about **Open Source**
+- ⚡️ Belive in life has no CTRL + Z
+
 
 
 ## Links
