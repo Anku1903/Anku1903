@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://facebook.com/ankur.zalavadiya.3"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/AnkurZalavadiy3"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://instagram.com/mr__perfect__1903"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://wa.me/919099175141?text=Hi,Ankur"> <img src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-whatsapp-social-media-icon-design-template-vector-png-image_3654767.jpg" alt="whatsapp"> </a>
+  <a href="https://wa.me/919099175141?text=Hi,Ankur"> <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="whatsapp"> </a>
  <a href="https://ankur1903.herokuapp.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="portfolio"> </a>
    
 </p>
