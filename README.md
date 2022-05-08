@@ -49,16 +49,7 @@ Here are some ideas to get you started:
 - ✔️I'm a fast learner looking for interesting career opportunities in Android and Web as a full-stack developer. I am awaiting a job with a chance to build up my career and skills. I am looking for growth. Currently, I am looking for internships and Freelance projects in the field of Web Devlopment.
 
 - ✔️My activities are much beyond my stream of education. I am involved in self-learning to building my personal brand. Apart from this, I love the marketing and stocks field. 
-
-
-## Links
-
-[![GitHub](icons/github.png)](https://github.com/Anku1903)
-[![Twitter](icons/twitter.png)](https://twitter.com/AnkurZalavadiy3)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-
-[![Facebook](fb.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](insta.png)](https://www.instagram.com/hussain.web/)
+](https://www.instagram.com/hussain.web/)
 
 
 
