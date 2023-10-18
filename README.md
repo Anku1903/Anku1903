@@ -2,22 +2,22 @@
 
 
 <p>Welcome to my page! </p>
-Hi, I'm Ankur Zalavadiya!, a passionate self-taught Full Stack Web Developer 🚀 from India.
+Hi, I'm Ankur Zalavadiya!, a passionate self-taught Data Analyst. 🚀
 <p>
 
 <!--
 **Anku1903/Anku1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Python
+- Web Scraping
+- SQL
+- Statistics
+- Tableau SOftware
+- Data Analytics
+- Data visulization
+
 -->
 
 ##### BIO
