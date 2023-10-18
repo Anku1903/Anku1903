@@ -20,14 +20,7 @@ Hi, I'm Ankur Zalavadiya!, a passionate self-taught Data Analyst. 🚀
 
 -->
 
-##### BIO
 
-- 🏢 Hello, Geeks! I'm **Full stack web Devloper**
-- ⚙️ I use daily: `.js`,`.html`, `.css`, 
-- 🌍 I'm mostly active in **Linkedin** and **Github**
-- 🌱 Exploring **Web**
-- 🌱 Currently Learning all about **Open Source**
-- ⚡️ Belive in life has no CTRL + Z
 
 ## ⚡ Technologies
 
