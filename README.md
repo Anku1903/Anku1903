@@ -1,25 +1,31 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
+Welcome to my GitHub Profile!
 
-<p>Welcome to my page! </p>
-Hi, I'm Ankur Zalavadiya!, a passionate self-taught Data Analyst. 🚀
-<p>
+Hi, I'm Ankur Zalavadiya,
 
-📊 Data Analyst | 📈 Data Visualization | 📉 SQL | 🧮 Python
+I'm an Azure Data Engineer🚀 with a strong focus on building scalable, secure, and efficient data pipelines using Microsoft Azure services. I know how to architect robust data solutions that empower businesses to make data-driven decisions with real-time insights.
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst with a keen interest in transforming raw data into valuable insights. My mission is to make data-driven decisions accessible to everyone.
+## 🔬 What I Do
+- Architect and deploy end-to-end data pipelines using Azure Data Factory for seamless data integration and orchestration.
+- Process large-scale datasets with Azure Databricks and PySpark for advanced analytics and transformations.
+- Build and optimize data analytics solutions using Azure Synapse Analytics for integrated data warehousing and big data processing.
+- Leverage Python and SQL for data manipulation, scripting, and querying to support pipeline development and analytics.
+- Create and maintain interactive dashboards and reports using Microsoft Fabric, Power BI, and Tableau for actionable insights.
 
-🔬 What I Do:
-- Analyze data to extract actionable insights.
-- Create interactive data visualizations and dashboards.
-- Utilize SQL to query and manipulate databases.
-- Python for data cleaning, analysis, and machine learning.
+## 🌐 Skills
+- **Cloud Platforms**: Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Microsoft Fabric.
+- **Programming**: Python (Pandas, PySpark), SQL.
+- **Visualization**: Power BI, Microsoft Fabric, Tableau.
+- **Other Tools**: Apache Spark, Git.
 
-🌐 My Toolbox:
-- Data Analysis: Pandas, NumPy, Jupyter.
-- Data Visualization: Matplotlib, Seaborn, Tableau.
-- SQL: MySQL, PostgreSQL.
-- Machine Learning: Scikit-Learn.
+## 🚀 Featured Projects
+- **[Shopify Analytics Data Pipeline](https://github.com/Anku1903/Shopify-Analytics-Data-Pipeline)**: Built an end-to-end data pipeline to process e-commerce sales data using Azure Data Factory, Databricks, and Power BI for real-time analytics and reporting.
+- **[Realtime Weather API Streaming Pipeline](https://github.com/Anku1903/Realtime-WeatherAPI-Streaming-Pipeline)**: Developed a real-time weather data pipeline using Azure Event Hubs, Databricks, and Microsoft Fabric, with Azure Functions for critical weather alerts.
 
+## 📬 Get in Touch
+Feel free to connect with me:
+- 📧 Email: [alsoankur@gmail.com](mailto:alsoankur@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/helloankur/](https://www.linkedin.com/in/helloankur/)
 
-Let's uncover the stories hidden in data together. 📊✨
+Let's transform data into actionable insights! 🌩️✨
