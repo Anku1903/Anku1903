@@ -4,7 +4,7 @@ Welcome to my GitHub Profile!
 
 Hi, I'm Ankur Zalavadiya,
 
-I'm an Azure Data Engineer🚀 with a strong focus on building scalable, secure, and efficient data pipelines using Microsoft Azure services. I know how to architect robust data solutions that empower businesses to make data-driven decisions with real-time insights.
+Data Engineer🚀 with 2 years of work experience, skilled in building scalable data pipelines, streaming solutions, and analytics dashboards using modern data stack including Azure, AWS, Databricks, and Apache Spark. Experienced in improving decision-making, reducing costs, and boosting revenue for e-commerce and retail clients through end to end analytics dashboards and automated workflows
 
 ## 🔬 What I Do
 - Architect and deploy end-to-end data pipelines using Azure Data Factory for seamless data integration and orchestration.
@@ -13,11 +13,49 @@ I'm an Azure Data Engineer🚀 with a strong focus on building scalable, secure,
 - Leverage Python and SQL for data manipulation, scripting, and querying to support pipeline development and analytics.
 - Create and maintain interactive dashboards and reports using Microsoft Fabric, Power BI, and Tableau for actionable insights.
 
-## 🌐 Skills
-- **Cloud Platforms**: Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Microsoft Fabric.
-- **Programming**: Python (Pandas, PySpark), SQL.
-- **Visualization**: Power BI, Microsoft Fabric, Tableau.
-- **Other Tools**: Apache Spark, Git.
+# 💻 Tech Stack & Skills
+
+### 🧑‍💻 Programming & Scripting
+- Python
+- SQL
+- Pandas
+- Polars
+- DuckDB
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+
+### ⚡ Big Data & Processing
+- Databricks
+- Apache Spark
+- Apache Kafka
+- Delta Lake
+- Lakehouse Architecture
+
+### ☁️ Cloud Platforms & Services
+
+#### Azure
+- Azure Data Factory
+- Azure Synapse Analytics
+- Azure Functions
+- Microsoft Fabric
+
+#### AWS
+- AWS Athena
+- AWS Glue
+- AWS Lambda
+- AWS Step Functions
+- AWS EC2
+- AWS S3
+
+### 📊 Data Visualization
+- Power BI
+- Tableau
+
+### 🧬 Version Control
+- Git
+
 
 ## 🚀 Featured Projects
 - **[Shopify Analytics Data Pipeline](https://github.com/Anku1903/Shopify-Analytics-Data-Pipeline)**: Built an end-to-end data pipeline to process e-commerce sales data using Azure Data Factory, Databricks, and Power BI for real-time analytics and reporting.
