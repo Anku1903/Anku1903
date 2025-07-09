@@ -4,7 +4,7 @@ Welcome to my GitHub Profile!
 
 Hi, I'm Ankur Zalavadiya,
 
-Data Engineer🚀 with 2 years of work experience, skilled in building scalable data pipelines, streaming solutions, and analytics dashboards using modern data stack including Azure, AWS, Databricks, and Apache Spark. Experienced in improving decision-making, reducing costs, and boosting revenue for e-commerce and retail clients through end to end analytics dashboards and automated workflows
+Data Engineer🚀 with 2+ years of work experience, skilled in building scalable data pipelines, streaming solutions, and analytics dashboards using modern data stack including Azure, AWS, Databricks, and Apache Spark. Experienced in improving decision-making, reducing costs, and boosting revenue for e-commerce and retail clients through end to end analytics dashboards and automated workflows
 
 ## 🔬 What I Do
 - Build scalable data pipelines using modern data stack like Apache Spark, Databricks, and Delta Lake.
@@ -58,7 +58,7 @@ Data Engineer🚀 with 2 years of work experience, skilled in building scalable 
 ### 🧬 Version Control
 - Git
 
-### Containerization
+### 🐳 Containerization
 - Docker
 - AWS ECS
 
