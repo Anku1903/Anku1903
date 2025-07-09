@@ -7,11 +7,13 @@ Hi, I'm Ankur Zalavadiya,
 Data Engineer🚀 with 2 years of work experience, skilled in building scalable data pipelines, streaming solutions, and analytics dashboards using modern data stack including Azure, AWS, Databricks, and Apache Spark. Experienced in improving decision-making, reducing costs, and boosting revenue for e-commerce and retail clients through end to end analytics dashboards and automated workflows
 
 ## 🔬 What I Do
-- Architect and deploy end-to-end data pipelines using Azure Data Factory for seamless data integration and orchestration.
-- Process large-scale datasets with Azure Databricks and PySpark for advanced analytics and transformations.
-- Build and optimize data analytics solutions using Azure Synapse Analytics for integrated data warehousing and big data processing.
-- Leverage Python and SQL for data manipulation, scripting, and querying to support pipeline development and analytics.
-- Create and maintain interactive dashboards and reports using Microsoft Fabric, Power BI, and Tableau for actionable insights.
+- Build scalable data pipelines using modern data stack like Apache Spark, Databricks, and Delta Lake.
+- Design and implement ETL/ELT workflows across cloud platforms including Azure (ADF, Synapse) and AWS (Glue, Athena, Lambda)
+- Work with streaming data using Apache Kafka, Azure Event Hub for real-time stream analytics.
+- I develop and maintain data storage solutions and dimensional data models, from traditional databases like PostgreSQL and MySQL to modern Lakehouse architectures.
+- I leverage cloud services on both AWS and Azure to create scalable and cost-effective data processing workflows.
+- Visualize data with interactive dashboards in Power BI and Tableau to support business decision-making.
+- Use Git for version control and collaboration in agile, data-driven environments
 
 # 💻 Tech Stack & Skills
 
@@ -55,6 +57,10 @@ Data Engineer🚀 with 2 years of work experience, skilled in building scalable 
 
 ### 🧬 Version Control
 - Git
+
+### Containerization
+- Docker
+- AWS ECS
 
 
 ## 🚀 Featured Projects
