@@ -4,16 +4,19 @@ Welcome to my GitHub Profile!
 
 Hi, I'm Ankur Zalavadiya,
 
-Data Engineer🚀 with 2+ years of work experience, skilled in building scalable data pipelines, streaming solutions, and analytics dashboards using modern data stack including Azure, AWS, Databricks, and Apache Spark. Experienced in improving decision-making, reducing costs, and boosting revenue for e-commerce and retail clients through end to end analytics dashboards and automated workflows
+Experienced Data Engineer with expertise in designing and implementing scalable data pipelines, ETL processes, Streaming
+solutions and analytics dashboards. Proven track record of delivering data-driven insights that drive business growth, reduce
+operational costs, and optimize decision-making across e-commerce, retail and healthcare domains. Enjoy solving real-world
+data problems that directly impact the business.
 
 ## 🔬 What I Do
-- Build scalable data pipelines using modern data stack like Apache Spark, Databricks, and Delta Lake.
-- Design and implement ETL/ELT workflows across cloud platforms including Azure (ADF, Synapse) and AWS (Glue, Athena, Lambda)
-- Work with streaming data using Apache Kafka, Azure Event Hub for real-time stream analytics.
-- I develop and maintain data storage solutions and dimensional data models, from traditional databases like PostgreSQL and MySQL to modern Lakehouse architectures.
-- I leverage cloud services on both AWS and Azure to create scalable and cost-effective data processing workflows.
-- Visualize data with interactive dashboards in Power BI and Tableau to support business decision-making.
-- Use Git for version control and collaboration in agile, data-driven environments
+- **Build scalable data pipelines** using Apache Spark, Databricks, and Delta Lake with medallion architecture
+- **Design real-time streaming solutions** with Apache Kafka, Kafka Streams, and Confluent Platform for realtime processing
+- **Implement modern data warehouse architectures** using Snowflake, DBT, and Apache Airflow for automated workflows
+- **Develop ETL/ELT processes** across Azure (Data Factory, Synapse) and AWS (Glue, Athena, Lambda) cloud platforms
+- **Create dimensional data models** from traditional databases to modern Lakehouse architectures
+- **Build interactive analytics dashboards** in Power BI and Tableau for data-driven business decisions
+- **Implement DevOps practices** with Docker, Kubernetes, and Git for reliable data operations
 
 # 💻 Tech Stack & Skills
 
@@ -23,15 +26,20 @@ Data Engineer🚀 with 2+ years of work experience, skilled in building scalable
 - Pandas
 - Polars
 - DuckDB
+- Scrapy
+- Playwright
 
 ### 🗄️ Databases
 - PostgreSQL
 - MySQL
 
-### ⚡ Big Data & Processing
+### ⚡ Core Data Engineering
 - Databricks
 - Apache Spark
 - Apache Kafka
+- Snowflake
+- DBT (Data Build Tool)
+- Apache Airflow
 - Delta Lake
 - Lakehouse Architecture
 
@@ -56,20 +64,40 @@ Data Engineer🚀 with 2+ years of work experience, skilled in building scalable
 - Tableau
 
 ### 🧬 Version Control
-- Git
+- Git & Github
 
-### 🐳 Containerization
+### 🐳 Devops
 - Docker
+- Kubernetes
 - AWS ECS
+- AWS EKS
 
 
 ## 🚀 Featured Projects
-- **[Shopify Analytics Data Pipeline](https://github.com/Anku1903/Shopify-Analytics-Data-Pipeline)**: Built an end-to-end data pipeline to process e-commerce sales data using Azure Data Factory, Databricks, and Power BI for real-time analytics and reporting.
-- **[Realtime Weather API Streaming Pipeline](https://github.com/Anku1903/Realtime-WeatherAPI-Streaming-Pipeline)**: Developed a real-time weather data pipeline using Azure Event Hubs, Databricks, and Microsoft Fabric, with Azure Functions for critical weather alerts.
+
+### 🛒 [E-commerce Analytics Data Pipeline](https://github.com/Anku1903/Shopify-Analytics-Data-Pipeline)
+**Azure Data Factory | Databricks | Synapse Analytics | Tableau**
+- Designed and deployed end-to-end data pipeline processing 500K+ daily transactions from Shopify stores using Azure Data Factory, Databricks, and Synapse Analytics
+- Implemented automated data ingestion from multiple Shopify REST APIs with error handling and data quality checks, storing structured data in Azure Data Lake using medallion architecture
+- Designed star schema dimensional models in Azure Synapse Analytics serverless SQL pool, optimizing query performance by 40% for complex analytical workloads
+- Built Tableau analytics dashboards for real-time monitoring of sales trends, customer behavior & lifetime value, product performance metrics, inventory optimization and supplier performance
+
+### 🏢 Data Warehouse with Snowflake & DBT
+**Snowflake | DBT | Apache Airflow | Python**
+- Built scalable data warehouse processing 2M+ daily records from CRM and marketing platforms
+- Developed 30+ DBT models with automated data quality tests and business logic
+- Orchestrated complex workflows with Airflow featuring dynamic scheduling and failure recovery
+- Implemented SCD Type 2 dimensions maintaining data integrity and historical accuracy
+
+### 🌤️ [Real-time Weather Analytics Platform](https://github.com/Anku1903/Weather-Streaming-Pipeline)
+**Azure Event Hubs | Databricks | Azure Functions | Microsoft Fabric**
+- Built streaming pipeline processing 10K+ weather data points hourly
+- Implemented real-time anomaly detection with sub-second latency using PySpark
+- Created automated alerting system for critical weather conditions
+- Developed live Power BI dashboards for weather pattern analysis
 
 ## 📬 Get in Touch
 Feel free to connect with me:
 - 📧 Email: [alsoankur@gmail.com](mailto:alsoankur@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/helloankur/](https://www.linkedin.com/in/helloankur/)
 
-Let's transform data into actionable insights! 🌩️✨
