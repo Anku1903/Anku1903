@@ -89,7 +89,7 @@ data problems that directly impact the business.
 - Orchestrated complex workflows with Airflow featuring dynamic scheduling and failure recovery
 - Implemented SCD Type 2 dimensions maintaining data integrity and historical accuracy
 
-### 🌤️ [Real-time Weather Analytics Platform](https://github.com/Anku1903/Weather-Streaming-Pipeline)
+### 🌤️ [Real-time Weather Analytics Platform](https://github.com/Anku1903/Realtime-WeatherAPI-Streaming-Pipeline)
 **Azure Event Hubs | Databricks | Azure Functions | Microsoft Fabric**
 - Built streaming pipeline processing 10K+ weather data points hourly
 - Implemented real-time anomaly detection with sub-second latency using PySpark
