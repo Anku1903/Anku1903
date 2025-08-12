@@ -82,9 +82,9 @@ data problems that directly impact the business.
 - Designed star schema dimensional models in Azure Synapse Analytics serverless SQL pool, optimizing query performance by 40% for complex analytical workloads
 - Built Tableau analytics dashboards for real-time monitoring of sales trends, customer behavior & lifetime value, product performance metrics, inventory optimization and supplier performance
 
-### 🏢 Data Warehouse with Snowflake & DBT
+### 🏢 [Data Warehouse with Snowflake & DBT](https://github.com/Anku1903/Datawarehouse-Snowflake-DBT-Airflow)
 **Snowflake | DBT | Apache Airflow | Python**
-- Built scalable data warehouse processing 2M+ daily records from CRM and marketing platforms
+- Built scalable data warehouse processing 2M+ daily records 
 - Developed 30+ DBT models with automated data quality tests and business logic
 - Orchestrated complex workflows with Airflow featuring dynamic scheduling and failure recovery
 - Implemented SCD Type 2 dimensions maintaining data integrity and historical accuracy
