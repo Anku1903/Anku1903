@@ -4,7 +4,7 @@ Welcome to my GitHub Profile!
 
 Hi, I'm Ankur Zalavadiya,
 
-Experienced Data Engineer with expertise in designing and implementing scalable data pipelines, ETL processes, Streaming
+Experienced Data Engineer with over 5 years of hand-on experience and expertise in designing and implementing scalable data pipelines, ETL processes, Streaming
 solutions and analytics dashboards. Proven track record of delivering data-driven insights that drive business growth, reduce
 operational costs, and optimize decision-making across e-commerce, retail and healthcare domains. Enjoy solving real-world
 data problems that directly impact the business.
