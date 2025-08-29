@@ -4,10 +4,7 @@ Welcome to my GitHub Profile!
 
 Hi, I'm Ankur Zalavadiya,
 
-Experienced Data Engineer with over 5 years of hand-on experience and expertise in designing and implementing scalable data pipelines, ETL processes, Streaming
-solutions and analytics dashboards. Proven track record of delivering data-driven insights that drive business growth, reduce
-operational costs, and optimize decision-making across e-commerce, retail and healthcare domains. Enjoy solving real-world
-data problems that directly impact the business.
+Experienced Data Engineer with over 5 years hands-on experience and expertise in designing and implementing scalable data pipelines, ETL processes, Streaming solutions, Data warehouses and analytics dashboards. Proven track record of delivering data solutions that drive business growth, reduce operational costs, and optimize decision-making across e-commerce, retail and healthcare domains. My key strength is Business impact oriented – I focus on delivering measureable business value not just technical solutions.  Enjoy solving real-world data problems that directly impact the business.
 
 ## 🔬 What I Do
 - **Build scalable data pipelines** using Apache Spark, Databricks, and Delta Lake with medallion architecture
@@ -54,6 +51,9 @@ data problems that directly impact the business.
 #### AWS
 - AWS Athena
 - AWS Glue
+- AWS EMR
+- AWS Kinesis
+- AWS MSK
 - AWS Lambda
 - AWS Step Functions
 - AWS EC2
@@ -69,6 +69,8 @@ data problems that directly impact the business.
 ### 🐳 Devops
 - Docker
 - Kubernetes
+- Azure DevOps
+- CI/CD Pipelines
 - AWS ECS
 - AWS EKS
 
