@@ -4,7 +4,7 @@ Welcome to my GitHub Profile!
 
 Hi, I'm Ankur Zalavadiya,
 
-Experienced Data Engineer with over 5 years hands-on experience and expertise in designing and implementing scalable data pipelines, ETL processes, Streaming solutions, Data warehouses and analytics dashboards. Proven track record of delivering data solutions that drive business growth, reduce operational costs, and optimize decision-making across e-commerce, retail and healthcare domains. My key strength is Business impact oriented – I focus on delivering measureable business value not just technical solutions.  Enjoy solving real-world data problems that directly impact the business.
+Experienced Data Engineer with over 5 years hands-on experience and expertise in designing and implementing scalable data pipelines, ETL/ELT processes, Streaming solutions, Data warehouses and analytics dashboards. Proven track record of delivering data solutions that drive business growth, reduce operational costs, and optimize decision-making across e-commerce, retail and healthcare domains. My key strength is I’m Business impact oriented – I focus on delivering measureable business value not just technical solutions.  Enjoy solving real-world data problems that directly impact the business.
 
 ## 🔬 What I Do
 - **Build scalable data pipelines** using Apache Spark, Databricks, and Delta Lake with medallion architecture
@@ -13,7 +13,7 @@ Experienced Data Engineer with over 5 years hands-on experience and expertise in
 - **Develop ETL/ELT processes** across Azure (Data Factory, Synapse) and AWS (Glue, Athena, Lambda) cloud platforms
 - **Create dimensional data models** from traditional databases to modern Lakehouse architectures
 - **Build interactive analytics dashboards** in Power BI and Tableau for data-driven business decisions
-- **Implement DevOps practices** with Docker, Kubernetes, and Git for reliable data operations
+- **DevOps practices** Implemented CI/CD pipelines using Azure DevOps for automated deployment of Azure Data pipelines across development, staging, and production environments.
 
 # 💻 Tech Stack & Skills
 
@@ -38,6 +38,7 @@ Experienced Data Engineer with over 5 years hands-on experience and expertise in
 - DBT (Data Build Tool)
 - Apache Airflow
 - Delta Lake
+- Data Modeling
 - Lakehouse Architecture
 
 ### ☁️ Cloud Platforms & Services
@@ -51,9 +52,7 @@ Experienced Data Engineer with over 5 years hands-on experience and expertise in
 #### AWS
 - AWS Athena
 - AWS Glue
-- AWS EMR
 - AWS Kinesis
-- AWS MSK
 - AWS Lambda
 - AWS Step Functions
 - AWS EC2
@@ -71,8 +70,7 @@ Experienced Data Engineer with over 5 years hands-on experience and expertise in
 - Kubernetes
 - Azure DevOps
 - CI/CD Pipelines
-- AWS ECS
-- AWS EKS
+
 
 
 ## 🚀 Featured Projects
