@@ -2,7 +2,7 @@
 
 **Senior Data Engineer · Data Platform Engineer**
 
-5.8 years building production data platforms — lakehouse, streaming, CI/CD, and GenAI — for chemical manufacturing, e-commerce, retail, and healthcare. Currently based in India, open to remote work globally.
+5.7 years building production data platforms — lakehouse, streaming, CI/CD, and GenAI — for chemical manufacturing, e-commerce, retail, and healthcare. Currently based in India, open to remote work globally.
 
 ---
 
