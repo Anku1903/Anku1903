@@ -44,9 +44,9 @@ High-level summaries of platforms I've designed and delivered at DCM Shriram ove
 
 ---
 
-## Public projects (freelance era, 2020–2025)
+## Public projects
 
-Foundation projects from my freelance consulting years. Smaller in scope than the current-role work, but the code is open and the patterns still hold up.
+Foundation projects from my consulting years. Smaller in scope than the current-role work, but the code is open and the patterns still hold up.
 
 ### [E-commerce Analytics Data Pipeline](https://github.com/Anku1903/Shopify-Analytics-Data-Pipeline)
 *Azure Data Factory · Databricks · Synapse Analytics · Tableau*
